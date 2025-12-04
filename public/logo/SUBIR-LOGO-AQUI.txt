@@ -1,0 +1,28 @@
+📸 SUBE TU LOGO AQUÍ
+=====================================
+
+1. ARRASTRA tu logo a esta carpeta (sobek-visuals/public/logo/)
+
+2. NOMBRE DEL ARCHIVO:
+   - sobekvisualstextoblanco.png (o .jpg, .svg, .webp)
+
+3. FORMATOS ACEPTADOS:
+   - PNG (recomendado para transparencia)
+   - SVG (mejor calidad, escalable)
+   - JPG/WEBP (alternativas)
+
+4. TAMAÑO RECOMENDADO:
+   - Alto: 200-400 píxeles
+   - Ancho: proporcional al logo
+   - Fondo transparente (PNG o SVG)
+
+5. El logo aparecerá automáticamente en:
+   - Navegación superior (navbar)
+   - Pie de página (footer)
+
+⚠️ IMPORTANTE:
+- El nombre debe ser exactamente: sobekvisualstextoblanco.png
+- Si usas otro formato, cambia la extensión en page.tsx línea 21 y 710
+- Ejemplo: de .png a .svg
+
+¡Listo! 🎉

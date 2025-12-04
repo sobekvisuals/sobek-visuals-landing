@@ -1,0 +1,29 @@
+📸 CÓMO SUBIR TUS MINIATURAS AQUÍ
+=====================================
+
+1. ARRASTRA tus imágenes a esta carpeta (sobek-visuals/public/thumbnails/)
+
+2. RENOMBRA tus archivos:
+   - thumbnail-1.jpg
+   - thumbnail-2.jpg
+   - thumbnail-3.jpg
+   - thumbnail-4.jpg
+   - thumbnail-5.jpg
+   - thumbnail-6.jpg
+
+3. TAMAÑOS RECOMENDADOS:
+   - Ancho: 1280 píxeles
+   - Alto: 720 píxeles
+   - Formato: JPG, PNG o WebP
+   - Peso: Máximo 500KB
+
+4. Las imágenes aparecerán automáticamente en tu sitio web
+
+¿TIENES IMÁGENES EN INTERNET?
+------------------------------
+También puedes usar URLs directas:
+- Cambia la ruta en page.tsx línea 198
+- De: image: "/thumbnails/thumbnail-1.jpg"
+- A: image: "https://tu-url.com/imagen.jpg"
+
+¡Listo! 🎉
